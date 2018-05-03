@@ -5,3 +5,4 @@
 ・もしダメならアンサンブルか別のアルゴリズムを使う
 ・tensorBoardに反映させる
 ・twitterアプリケーションとかでデプロイする
+ブログ:https://kana-kanade.hatenablog.com/entry/2018/05/04/002354
